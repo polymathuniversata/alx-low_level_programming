@@ -1,2 +1,2 @@
 # alx-low_level_programming
-My first fig into C programming
+My first dig into C programming
